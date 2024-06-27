@@ -1,0 +1,6 @@
+[book]
+authors = ["Yongheng Chen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Introduction to Fuzzing"
